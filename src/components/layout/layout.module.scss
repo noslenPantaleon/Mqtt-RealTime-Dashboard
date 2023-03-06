@@ -1,0 +1,15 @@
+// @import '../../styles/mixings.scss';
+
+.layout {
+  padding: 0 5rem 0 5rem;
+  display: flex;
+  flex-direction: column;
+
+  //   @include extra-small {
+  //     padding: 0 2rem 0 2rem;
+  //   }
+
+  //   @include small-down {
+  //     padding: 0 2rem 0 2rem;
+  //   }
+}

@@ -1,0 +1,16 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  gap: 40px;
+}
+
+.main {
+  display: flex;
+  text-align: center;
+  place-content: center;
+  color: aquamarine;
+  padding: 50px;
+}

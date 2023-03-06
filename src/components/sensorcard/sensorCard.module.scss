@@ -1,0 +1,65 @@
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 200px;
+  width: 280px;
+
+  .card {
+    width: 250px;
+    height: 250px;
+    border-style: solid;
+    border-radius: 20px;
+    border-color: rgb(172, 200, 185);
+    border-width: 1px;
+    background-color: rgb(19, 58, 38);
+    box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+  }
+
+  h1 {
+    font-size: 50px;
+    color: white;
+  }
+
+  h4 {
+    font-size: 30px;
+    color: rgb(8, 69, 45);
+    align-items: center;
+    height: 2px;
+    font-weight: lighter;
+  }
+  h6 {
+    color: aquamarine;
+    font-size: 14px;
+  }
+}
+
+.iconContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 110px;
+  padding: 10px;
+  gap: 10px;
+}
+
+.growroomName {
+  margin-bottom: 50px;
+  width: 100%;
+  height: 50px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  gap: 10px;
+  padding-bottom: 15px;
+}
+
+.title {
+  background-color: rgb(250, 255, 253);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 10px 10px 0px 0px;
+  object-fit: fill;
+}
