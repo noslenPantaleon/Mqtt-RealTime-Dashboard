@@ -14,3 +14,13 @@
   color: aquamarine;
   padding: 50px;
 }
+
+.chart {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  row-gap: 40px;
+  padding: 40px;
+  margin-top: 5rem;
+}

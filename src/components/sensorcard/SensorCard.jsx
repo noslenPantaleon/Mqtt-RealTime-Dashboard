@@ -1,7 +1,10 @@
 import styles from './sensorCard.module.scss';
 import { RiPlantLine } from 'react-icons/ri';
 
+
 function SensorCard({ growroom, sensorName, sensor, icon }) {
+
+
   return (
     <section className={styles.container}>
       <div className={styles.card}>
