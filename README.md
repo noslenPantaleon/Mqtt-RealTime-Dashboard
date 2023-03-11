@@ -1,3 +1,20 @@
+
+
+
+## Working Progress
+
+
+## Goals
+- Learn datavisualization with Echarts library, and conect data from Mqtt broker.
+- Add an input form to allow users to conect with any broker.
+- Support databases conections.
+- Improved design.
+
+
+![](
+public/dashboard-demo.jpg)
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
